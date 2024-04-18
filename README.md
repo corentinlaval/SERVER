@@ -12,7 +12,7 @@ Réaliser un réseau LAN pour l'entreprise, pouvant accéder au WAN de manière 
 
 ## 1-Réalisation du schéma réseau
 
-![Schéma réseau]()
+![Schéma réseau](https://github.com/corentinlaval/SERVER/blob/main/RéseauProj.png)
 
 
 
