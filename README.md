@@ -30,9 +30,11 @@ Il me faut donc une solution simple, gratuite, OpenSource, documentée, sur une 
 
 Je pars donc sur un routeur logiciel, un "ordinateur" avec un logiciel de routage et de firewall.
 
-|  Nom  |  IPFire  |  VyOS  |  OpenWrt  |  Pfsens  |  OpnSense  |
+|  Nom  |  IPFire  |  VyOS  |  OpenWrt  |  PfSens  |  OpnSense  |
 |---  |:-:  |:-:  |:-:  |:-:  |:-:  |
 |  Plateformes  |  Linux  |  Linux  |Linux  |  Toutes  |  Toutes  |
 |  Prix  |  Gratuit  |  Gratuit au début puis payant  |Gratuit  |  Gratuit  |  Gratuit  |
 |  Support  |  En ligne  |  En ligne ++ (24/7)  |En ligne  |  Appel  |  En ligne  |
-|  Interface Graphique  |  Compréhensibile  |  Très compréhensible  |Compréhensibile  |  Compréhensibile  |  Très compréhensible   |
+|  Interface Graphique  |  Compréhensible  |  Très compréhensible  |Compréhensible  |  Compréhensible  |  Très compréhensible   |
+
+Nous avons donc 2 solutions très similaires OpnSense et PfSense. Pour ce projet, j'ai donc décidé d'utiliser OpnSense, basé sur la partie graphique à mon gout plus attractive et une organisation des éléments, plus accessible. - Lors d'un prochain projet, j'essaierai donc PfSense afin de "toucher à tout" et être polyvalent -
