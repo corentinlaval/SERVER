@@ -12,8 +12,27 @@ Réaliser un réseau LAN pour l'entreprise, pouvant accéder au WAN de manière 
 
 ## 1-Réalisation du schéma réseau
 
+Après reflexion, le réseau est assez simple à mettre en place, composé d'un switch (permettant les trafics inter LAN) et d'un routeur autorisant une communication entre LAN et WAN.
+Deplus, il est demandé de s'intéresser sur l'option sécurité du réseau, il nous faut donc un Firewall. 
+La schéma revient à 2 solution données ci-dessous:
+
 ![Schéma réseau](https://github.com/corentinlaval/SERVER/blob/main/RéseauProj.png)
 
+Une solution avec un routeur et un Firewall ou une solution intégrant les 2 en une seule entitée.
 
+## 2-Choix du routeur
 
+Après un point sur ma situation:
+- En période d'éssai --> Solution maintenable pour les futurs employés si ce n'est pas moi.
+- Startup --> Budget potentiellement restreint, préférer les open sources.
 
+Il me faut donc une solution simple, gratuite, OpenSource, documentée, sur une plateforme accéssible et potentiellement graphique si un memebre de la startup souhaite paramétrer des accès et qu'elle ne si connait pas.
+
+Je pars donc sur un routeur logiciel, un "ordinateur" avec un logiciel de routage et de firewall.
+
+|  Nom  |  IPFire  |  VyOS  |  OpenWrt  |  Pfsens  |  OpnSense  |
+|---  |:-:  |:-:  |:-:  |:-:  |--:  |
+|  Plateformes  |  Linux  |  Linux  |Linux  |  Toutes  |  Toutes  |
+|  Prix  |  Gratuit  |  Gratuit au début puis payant  |Gratuit  |  Gratuit  |  Gratuit  |
+|  Support  |  En ligne  |  En ligne ++ (24/7)  |En ligne  |  Appel  |  En ligne  |
+|  Interface Graphique  |  Compréhensibile  |  Très compréhensible  |Compréhensibile  |  Compréhensibile  |  Très compréhensible   |
