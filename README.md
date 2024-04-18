@@ -31,7 +31,7 @@ Il me faut donc une solution simple, gratuite, OpenSource, documentée, sur une 
 Je pars donc sur un routeur logiciel, un "ordinateur" avec un logiciel de routage et de firewall.
 
 |  Nom  |  IPFire  |  VyOS  |  OpenWrt  |  Pfsens  |  OpnSense  |
-|---  |:-:  |:-:  |:-:  |:-:  |--:  |
+|---  |:-:  |:-:  |:-:  |:-:  |:-:  |
 |  Plateformes  |  Linux  |  Linux  |Linux  |  Toutes  |  Toutes  |
 |  Prix  |  Gratuit  |  Gratuit au début puis payant  |Gratuit  |  Gratuit  |  Gratuit  |
 |  Support  |  En ligne  |  En ligne ++ (24/7)  |En ligne  |  Appel  |  En ligne  |
