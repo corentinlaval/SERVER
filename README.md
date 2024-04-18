@@ -109,5 +109,5 @@ Il suffit de se connecter en filaire au switch du LAN, de forcer son adresse ip 
 Ce projet m'a permit:
 - [x] Une découverte, un apprentissage et une constatation des composants d'un ordinateur.
 - [x] Une découverte et un apprentissage des routeurs logiciels.
-- [x] Appliquer et approfondire mes connaissances dans le réseau et les routeurs logiciels.
+- [x] Une application et un approfondissement de mes connaissances dans le réseau et les routeurs logiciels.
 
