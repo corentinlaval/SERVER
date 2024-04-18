@@ -37,4 +37,7 @@ Je pars donc sur un routeur logiciel, un "ordinateur" avec un logiciel de routag
 |  Support  |  En ligne  |  En ligne ++ (24/7)  |En ligne  |  Appel  |  En ligne  |
 |  Interface Graphique  |  Compréhensible  |  Très compréhensible  |Compréhensible  |  Compréhensible  |  Très compréhensible   |
 
-Nous avons donc 2 solutions très similaires OpnSense et PfSense. Pour ce projet, j'ai donc décidé d'utiliser OpnSense, basé sur la partie graphique à mon gout plus attractive et une organisation des éléments, plus accessible.[color=#26B260]- Lors d'un prochain projet, j'essaierai donc PfSense afin de "toucher à tout" et être polyvalent - [/color]<font color='red'> - Lors d'un prochain projet, j'essaierai donc PfSense afin de "toucher à tout" et être polyvalent - </font>
+Nous avons donc 2 solutions très similaires OpnSense et PfSense. Pour ce projet, j'ai donc décidé d'utiliser OpnSense, basé sur la partie graphique à mon gout plus attractive et une organisation des éléments, plus accessible.
+
+> [!TIP]
+> Lors d'un prochain projet, j'essaierai donc PfSense afin de "toucher à tout" et être polyvalent.
